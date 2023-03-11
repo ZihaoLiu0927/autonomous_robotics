@@ -1,0 +1,1 @@
+How it work: It first subscribes the camera topic to obtain the real time image data. And then it processes the image data by filtering the irrelevant data point in the image and focusing on the yellow color data. It then uses the PID algorithm to follow the yellow line.
